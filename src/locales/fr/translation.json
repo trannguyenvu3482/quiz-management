@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "Home": "Accueil",
+    "Users": "Utilisateurs",
+    "Admin": "Admin",
+    "Settings": {
+      "Title": "Paramètres",
+      "Profile": "Profil",
+      "Logout": "Déconnexion"
+    }
+  },
+  "Hero": {
+    "Title": {
+      "Part1": "Faites des formulaires",
+      "Part2": "dignes d'être remplis"
+    },
+    "Subtitle": {
+      "Part1": "Obtenez plus de données—comme des inscriptions, des retours, et tout ce que vous voulez",
+      "Part2": "avec des formulaires conçus pour être",
+      "Part3": "rafraîchissants et différents"
+    },
+    "StartQuizButton": "Commencez à faire le quiz maintenant",
+    "StartQuizNotLogin": "Commencez, c'est gratuit"
+  }
+}

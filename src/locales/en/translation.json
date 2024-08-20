@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "Home": "Home",
+    "Users": "Users",
+    "Admin": "Admin",
+    "Settings": {
+      "Title": "Settings",
+      "Profile": "Profile",
+      "Logout": "Logout"
+    }
+  },
+  "Hero": {
+    "Title": {
+      "Part1": "Make forms",
+      "Part2": "worth filling out"
+    },
+    "Subtitle": {
+      "Part1": "Get more data—like signups, feedback, and anything else",
+      "Part2": "with forms designed to be",
+      "Part3": "refreshingly different"
+    },
+    "StartQuizButton": "Start doing quiz now",
+    "StartQuizNotLogin": "Get started, it's free"
+  }
+}

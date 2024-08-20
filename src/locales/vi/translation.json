@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "Home": "Trang chủ",
+    "Users": "Người dùng",
+    "Admin": "Admin",
+    "Settings": {
+      "Title": "Cài đặt",
+      "Profile": "Hồ sơ",
+      "Logout": "Đăng xuất"
+    }
+  },
+  "Hero": {
+    "Title": {
+      "Part1": "Làm cho các form",
+      "Part2": "đáng điền"
+    },
+    "Subtitle": {
+      "Part1": "Nhận thêm dữ liệu—như đăng ký, phản hồi, và bất cứ điều gì khác",
+      "Part2": "với các form được thiết kế để",
+      "Part3": "khác biệt một cách mới mẻ"
+    },
+    "StartQuizButton": "Bắt đầu làm bài quiz ngay",
+    "StartQuizNotLogin": "Bắt đầu ngay, miễn phí"
+  }
+}
